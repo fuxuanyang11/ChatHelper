@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 //        FileIOUtils.readFile2String()
-        
+
         initView();
         initRecyclerview();
 
